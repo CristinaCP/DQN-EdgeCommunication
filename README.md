@@ -1,7 +1,7 @@
 # DQN-EdgeCommunication
 
 required packages
-#best training example - https://github.com/tensorflow/agents/blob/master/tf_agents/colabs/1_dqn_tutorial.ipynb
+#best training example - https://github.com/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb
 
 ### Note: If you haven't installed the following dependencies, run:
 !apt-get install -y xvfb
